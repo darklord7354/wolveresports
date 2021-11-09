@@ -50,7 +50,7 @@ document.getElementById("social2").onclick = function() {
      "https://www.instagram.com/wolver_esports/", "_blank");
 }
 
-document.getElementById("social4").onclick = function() {
+document.getElementById("social3").onclick = function() {
     window.open(
      "https://twitter.com/wolver_esports", "_blank");
 }
