@@ -37,3 +37,21 @@ scrollToTop3.addEventListener("click", function () {
         behavior: "smooth"
     })
 })
+
+// discord =>
+
+document.getElementById("social1").onclick = function() {
+    window.open(
+     "https://discord.gg/d56XAWS8Tz", "_blank");
+}
+
+document.getElementById("social2").onclick = function() {
+    window.open(
+     "https://instagram.com/wolver_esports", "_blank");
+}
+
+document.getElementById("social4").onclick = function() {
+    window.open(
+     "https://twitter.com/wolver_esports", "_blank");
+}
+
