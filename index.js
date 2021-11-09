@@ -47,7 +47,7 @@ document.getElementById("social1").onclick = function() {
 
 document.getElementById("social2").onclick = function() {
     window.open(
-     "https://instagram.com/wolver_esports", "_blank");
+     "https://www.instagram.com/wolver_esports/", "_blank");
 }
 
 document.getElementById("social4").onclick = function() {
